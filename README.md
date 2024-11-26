@@ -49,3 +49,36 @@ Differences from mainline Voron Trident:
 * CAN toolhead board
 * Umbilical toolhead wiring instead of cable chains
 </details>
+
+
+# Tools
+
+* A nice set of metric hex keys, e.g. Wera 950/9 or Wiha 26390.  You need 1.5 mm, 2 mm, 2.5 mm, 3 mm, and 4 mm.
+* Phillips screwdriver, P0 size
+* Flush cutters
+* straight edge or ruler
+* machinist's square or 123 blocks (for squaring the frame)
+* clamps (for squaring the frame)
+* measuring tape (for checking diagonals when squaring the frame)
+* Threadlocker
+* Isopropyl alcohol
+* Grease, super lube is a good alternative, spray white lithium grease is another good option (e.g. <https://www.wd40.com/products/white-lithium-grease/>).
+
+
+# The build process
+
+
+## Documentation
+
+These build instructions will reference the following manuals:
+- [The Voron Trident Assembly Manual](https://github.com/VoronDesign/Voron-Trident/blob/main/Manual/Assembly_Manual_Trident.pdf)
+- [The Stealthburner Assembly Manual](https://github.com/VoronDesign/Voron-Stealthburner/raw/main/Manual/Assembly_Manual_SB.pdf)
+- [The Voron Tap Assembly Manual](https://github.com/VoronDesign/Voron-Tap/blob/main/Manual/Assembly_Manual_Tap.pdf)
+- [Voron Tap r8 errata](https://github.com/VoronDesign/Voron-Tap/blob/main/Manual/R8_errata.md)
+
+
+## Build sequence
+
+| Manual               | Pages   | Comment
+|----------------------|---------|---
+| Voron Trident        | 1-21    | Smooth sailing.
