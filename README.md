@@ -43,4 +43,9 @@ Advertised features:
 * Genuine Gates belts
 * 440C stainless steel linear guide rails
 * Precision machined cast aluminum plate
+
+Differences from mainline Voron Trident:
+* Bakelite spacers under the bed instead of M4 thumb nuts
+* CAN toolhead board
+* Umbilical toolhead wiring instead of cable chains
 </details>
