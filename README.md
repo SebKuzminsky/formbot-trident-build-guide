@@ -48,6 +48,9 @@ Differences from mainline Voron Trident:
 * Bakelite spacers under the bed instead of M4 thumb nuts
 * CAN toolhead board
 * Umbilical toolhead wiring instead of cable chains
+
+Noteworthy details:
+* Uses standard microswitch XY endstops, not hall effect
 </details>
 
 
@@ -81,4 +84,5 @@ These build instructions will reference the following manuals:
 
 | Manual               | Pages   | Comment
 |----------------------|---------|---
-| Voron Trident        | 1-21    | Smooth sailing.
+| Voron Trident        | 1-21    | Assemble the frame.  It can be a little difficult to tell the different extrusions apart, the holes (tapped and not) can be a hint.
+| Voron Trident        | 22-30   |
