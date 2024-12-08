@@ -85,4 +85,6 @@ These build instructions will reference the following manuals:
 | Manual               | Pages   | Comment
 |----------------------|---------|---
 | Voron Trident        | 1-21    | Assemble the frame.  It can be a little difficult to tell the different extrusions apart, the holes (tapped and not) can be a hint.
-| Voron Trident        | 22-30   |
+| Voron Trident        | 22-32   | Assemble the front idlers and AB drive frames.
+| Voron Trident        | 33-39   | Assemble AB drives.
+| Voron Trident        | 40-47   | Mount the front idlers and AB drives on the frame.  Note that this step uses seven M5 T-nuts and one M3 T-nut.
