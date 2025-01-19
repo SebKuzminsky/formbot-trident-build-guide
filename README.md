@@ -88,3 +88,6 @@ These build instructions will reference the following manuals:
 | Voron Trident        | 22-32   | Assemble the front idlers and AB drive frames.
 | Voron Trident        | 33-39   | Assemble AB drives.
 | Voron Trident        | 40-47   | Mount the front idlers and AB drives on the frame.  Note that this step uses seven M5 T-nuts and one M3 T-nut.
+| Voron Trident        | 48      | This kit uses microswitch endstops, no hall effect endstops, so use the part `[a]_y_endstop_housing.stl` instead of the `[a]_y_endstop_bumper.stl` shown in the manual.
+| Voron Trident        | 49-50   |
+| Voron Trident        | 51      | The parts needed here are `z_rear_extrusionbracket_left.stl` and `z_rear_extrusionbracket_right.stl`.
