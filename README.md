@@ -91,3 +91,10 @@ These build instructions will reference the following manuals:
 | Voron Trident        | 48      | This kit uses microswitch endstops, no hall effect endstops, so use the part `[a]_y_endstop_housing.stl` instead of the `[a]_y_endstop_bumper.stl` shown in the manual.
 | Voron Trident        | 49-50   |
 | Voron Trident        | 51      | The parts needed here are `z_rear_extrusionbracket_left.stl` and `z_rear_extrusionbracket_right.stl`.
+| Voron Trident        | 52-56   |
+| Voron Trident        | 57-59   | The manual shows 8 M3 T-nuts, but on the 350 mm machine 10 fit and there are plenty of spares in the Formbot kit.  Leave two adjacent empty holes at the center of the rail, then move out from there skipping every other hole as described in the manual.  Do whatever makes sense for your size of printer.
+| Voron Trident        | 60-63   |
+| Voron Trident        | 64      | This kit uses the 3-hole part for a generic cable chain, `z_carriage_rear_3hole.stl`.
+| Voron Trident        | 65      | This part is `z_stepper_rear.stl`.
+| Voron Trident        | 66-78   |
+| Voron Trident        | 79      | The ACME nuts come screwed on to the lead screws, unscrew them before mounting them to the Z carriages.
