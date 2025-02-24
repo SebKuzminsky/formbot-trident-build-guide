@@ -100,3 +100,4 @@ These build instructions will reference the following manuals:
 | Voron Trident        | 79      | The ACME nuts come screwed on to the lead screws, unscrew them before mounting them to the Z carriages.
 | Voron Trident        | 80-90   | Assemble the three Z joints.
 | Voron Trident        | 91      | Assemble the four feet.  The parts here are `corner_a_x2.stl`, `corner_b_x2.stl`, `[a]_corner_baseplate_a_x2.stl`, and `[a]_corner_baseplate_b_x2.stl`.  Make sure you match the "a" corner pieces with the "a" the baseplates, and "b" with "b".  Don't over-tighten the screws.
+| Voron Trident        | 92-97   | Mount the feet to the frame.  Be careful to orient them correctly.
