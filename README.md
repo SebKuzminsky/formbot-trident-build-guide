@@ -101,3 +101,6 @@ These build instructions will reference the following manuals:
 | Voron Trident        | 80-90   | Assemble the three Z joints.
 | Voron Trident        | 91      | Assemble the four feet.  The parts here are `corner_a_x2.stl`, `corner_b_x2.stl`, `[a]_corner_baseplate_a_x2.stl`, and `[a]_corner_baseplate_b_x2.stl`.  Make sure you match the "a" corner pieces with the "a" the baseplates, and "b" with "b".  Don't over-tighten the screws.
 | Voron Trident        | 92-97   | Mount the feet to the frame.  Be careful to orient them correctly.
+| Voron Trident        | 98-109  | *Loosely* assemble the XY joints - do not tighten the four M5x40 bolts yet.
+| Voron Trident        | 110-111 | On the 350 mm kit, the "E Extrusion" is the 430 mm one: the shortest of the three remaining extrusions that's *longer* than the one remaining linear guide.  When mounting the linear rail to the extrusion, use as many M3 T-nuts as will fit using the "every other hole" pattern.  Seat all the M3x8 SHCSs in their T-nuts loosely, then tighten them starting from the center of the rail and working your way out to the ends.
+| Voron Trident        | 112-113 | After seating the E Extrusion in the XY Joints, tighten all the screws in the XY Joints.  Make sure the screws holding the GT2 20-tooth idler gears are loose enough that the gears spin freely.
