@@ -104,5 +104,13 @@ These build instructions will reference the following manuals:
 | Voron Trident        | 98-109  | *Loosely* assemble the XY joints - do not tighten the four M5x40 bolts yet.
 | Voron Trident        | 110-111 | On the 350 mm kit, the "E Extrusion" is the 430 mm one: the shortest of the three remaining extrusions that's *longer* than the one remaining linear guide.  When mounting the linear rail to the extrusion, use as many M3 T-nuts as will fit using the "every other hole" pattern.  Seat all the M3x8 SHCSs in their T-nuts loosely, then tighten them starting from the center of the rail and working your way out to the ends.
 | Voron Trident        | 112-113 | After seating the E Extrusion in the XY Joints, tighten all the screws in the XY Joints.  Make sure the screws holding the GT2 20-tooth idler gears are loose enough that the gears spin freely.
-| Voron Trident        | 114     |
+| Voron Trident        | 114     | The two missing bolts are for the endstop switches. Since they'll be placed differently in this kit you can the two screws here.
 | Voron Trident        | 115     | The Formbot kit uses a toolhead umbillical, so it does not need the XY Cable Bridge.  Install two M5x10 BHCS in the right XY Joint, just like the left one has.
+| Voron Trident        | 112-137 | The Formbot kit comes with TAP, so follow the [TAP manual](https://github.com/VoronDesign/Voron-Tap/blob/main/Manual/Assembly_Manual_Tap.pdf) instead.
+| Voron Trident        | 144-145 | TAP is used for measuring the Z-offset, so skip this part.
+| Voron Trident        | 149     | The M3 T-Nuts are for the Z endstop so leave them out.
+| Voron Trident        | 181-183 | The Formbot kit doesn't use a PI nor the 5V PSU.
+| Voron Trident        | 185     | The kit comes with a Manta M8P, so use the corresponding mount.
+| Voron Trident        | 191     | The kit doesn't come with the 415 Lever Nuts. Some kits have a 3-6 PCB that can be used, but it isn't needed.
+| Voron Trident        | 196     | Don't install a Pi.
+| Voron Trident        | 198-200 | Because this kit uses an umbillical cord, the endstops get installed into different positions. One switch gets mounted on the TAP mount and connected to the toolhead pcb and the other one can be attached on top of either belt drives with an extra printed part. Some possible STL files are found [here](https://github.com/cruiten/Voron-Related/blob/main/CANbus/Documentation/Umbilical/README.md). 
