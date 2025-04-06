@@ -82,6 +82,8 @@ These build instructions will reference the following manuals:
 
 ## Build sequence
 
+### Frame, rails, gantry
+
 | Manual               | Pages   | Comment
 |----------------------|---------|---
 | Voron Trident        | 1-21    | Assemble the frame.  It can be a little difficult to tell the different extrusions apart, the holes (tapped and not) can be a hint.
@@ -114,8 +116,8 @@ These build instructions will reference the following manuals:
 | Voron Trident        | 134     | Check your work.
 | Voron Trident        | 135-137 | Skip these pages, this kit uses Tap instead of the default Voron Trident X carriage.
 
-> [!NOTE]
-> **VORON TAP AND ERRATA**
+
+### TAP
 
 | Manual               | Pages   | Comment
 |----------------------|---------|---
@@ -124,8 +126,8 @@ These build instructions will reference the following manuals:
 | Voron TAP            | 19-21   |
 | Voron TAP            | 22-24   | Per the errata (_you did read the [errata](https://github.com/VoronDesign/Voron-Tap/blob/main/Manual/R8_errata.md), right??_) the threaded inserts are installed slightly differently.
 
-> [!NOTE]
-> **Print bed**
+
+### Draw the rest of the owl
 
 | Manual               | Pages   | Comment
 |----------------------|---------|---
