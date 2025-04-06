@@ -106,7 +106,26 @@ These build instructions will reference the following manuals:
 | Voron Trident        | 112-113 | After seating the E Extrusion in the XY Joints, tighten all the screws in the XY Joints.  Make sure the screws holding the GT2 20-tooth idler gears are loose enough that the gears spin freely.
 | Voron Trident        | 114     | The two missing bolts are for the endstop switches. Since they'll be placed differently in this kit you can the two screws here.
 | Voron Trident        | 115     | The Formbot kit uses a toolhead umbillical, so it does not need the XY Cable Bridge.  Install two M5x10 BHCS in the right XY Joint, just like the left one has.
-| Voron Trident        | 112-137 | The Formbot kit comes with TAP, so follow the [TAP manual](https://github.com/VoronDesign/Voron-Tap/blob/main/Manual/Assembly_Manual_Tap.pdf) instead.
+| Voron Trident        | 116-119 |
+| Voron Trident        | 120-121 | Study the belt routing instructions for when we route the belts in the next few pages.
+| Voron Trident        | 122-123 | Skip these pages, this kit uses Tap instead of the default Voron Trident X carriage.
+| Voron Trident        | 124-130 | Route the A and B belts, and leave them hanging loose in front of the X rail.  This part is a bit fiddly.
+| Voron Trident        | 131-133 | Skip these pages, this kit uses Tap instead of the default Voron Trident X carriage.
+| Voron Trident        | 134     | Check your work.
+| Voron Trident        | 135-137 | Skip these pages, this kit uses Tap instead of the default Voron Trident X carriage.
+
+> [!NOTE]
+> **VORON TAP AND ERRATA**
+
+| Manual               | Pages   | Comment
+|----------------------|---------|---
+| Voron TAP            | 1-17    | Read the [Voron Tap Assembly Manual](https://github.com/VoronDesign/Voron-Tap/blob/main/Manual/Assembly_Manual_Tap.pdf) **AND** [Voron Tap r8 errata](https://github.com/VoronDesign/Voron-Tap/blob/main/Manual/R8_errata.md).
+
+> [!NOTE]
+> **Print bed**
+
+| Manual               | Pages   | Comment
+|----------------------|---------|---
 | Voron Trident        | 144-145 | TAP is used for measuring the Z-offset, so skip this part.
 | Voron Trident        | 149     | The M3 T-Nuts are for the Z endstop so leave them out.
 | Voron Trident        | 181-183 | The Formbot kit doesn't use a PI nor the 5V PSU.
