@@ -172,23 +172,6 @@ These build instructions will reference the following manuals:
 | EBB CAN              | 21      | The manual calls for an M3x10 screw but the kit doesn't come with any. Use an M3x8 screw instead.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Draw the rest of the owl
 
 | Manual               | Pages   | Comment
