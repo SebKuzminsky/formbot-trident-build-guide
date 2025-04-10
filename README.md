@@ -144,6 +144,7 @@ These build instructions will reference the following manuals:
 | Voron Stealthburner  | 11      | BigTreeTech supplies an alternative version of this part but i think the stock Voron part works better.
 | Voron Stealthburner  | 12-13   | Install the heat-set insert, including the two optional ones for the toolhead PCB.
 | Voron Stealthburner  | 14      | This kit will use the [`CW2 Cable Bridge.STL`](https://github.com/bigtreetech/EBB/blob/master/EBB%20SB2240_2209%20CAN/STL/CW2%20Cable%20Bridge.STL) part from the BigTreeTech/EBB repo.  Add two heat-set threaded inserts: ![](images/cw2-cable-bridge-heatset-inserts.png)
+| Voron Stealthburner  | 15-17   | The BMG idler assembly may consist of three/four parts like the Voron manual shows, or it may consists of just two parts. As long as the axle snaps tightly in to the guidler and the gear spins freely and without wobble it's probably ok. If you have problems with the axle popping loose from the guidler, carefully place a drop of cyanoacrylate adhesive (Super glue) in the two places where the axle snaps into the guidler. Be careful not to glue the gear to the axle! ![](/images/BMG-Idler-Assembly-manual.png) ![](/images/BMG-Idler-Assembly-actual.jpg)
 
 
 ### Draw the rest of the owl
