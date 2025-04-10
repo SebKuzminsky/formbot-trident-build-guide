@@ -136,6 +136,16 @@ These build instructions will reference the following manuals:
 | Voron TAP            | 33      |
 
 
+### Stealthburner toolhead
+
+| Manual               | Pages   | Comment
+|----------------------|---------|---
+| Voron Stealthburner  | 1-10    |
+| Voron Stealthburner  | 11      | BigTreeTech supplies an alternative version of this part but i think the stock Voron part works better.
+| Voron Stealthburner  | 12-13   | Install the heat-set insert, including the two optional ones for the toolhead PCB.
+| Voron Stealthburner  | 14      | This kit will use the [`CW2 Cable Bridge.STL`](https://github.com/bigtreetech/EBB/blob/master/EBB%20SB2240_2209%20CAN/STL/CW2%20Cable%20Bridge.STL) part from the BigTreeTech/EBB repo.  Add two heat-set threaded inserts: ![](images/cw2-cable-bridge-heatset-inserts.png)
+
+
 ### Draw the rest of the owl
 
 | Manual               | Pages   | Comment
