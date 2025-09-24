@@ -147,10 +147,12 @@ These build instructions will reference the following manuals:
 | Voron Stealthburner  | 14      | This kit will use the [`CW2 Cable Bridge.STL`](https://github.com/bigtreetech/EBB/blob/master/EBB%20SB2240_2209%20CAN/STL/CW2%20Cable%20Bridge.STL) part from the BigTreeTech/EBB repo.  Add two heat-set threaded inserts: ![](images/cw2-cable-bridge-heatset-inserts.png)
 | Voron Stealthburner  | 15-17   | The BMG idler assembly may consist of three/four parts like the Voron manual shows, or it may consists of just two parts. As long as the axle snaps tightly in to the guidler and the gear spins freely and without wobble it's probably ok. If you have problems with the axle popping loose from the guidler, carefully place a drop of cyanoacrylate adhesive (Super glue) in the two places where the axle snaps into the guidler. Be careful not to glue the gear to the axle! ![](/images/BMG-Idler-Assembly-manual.png) ![](/images/BMG-Idler-Assembly-actual.jpg)
 | Voron Stealthburner  | 18      |
-| Voron Stealthburner  | 19 - 20 | You can use the end of the gear shaft to gently press the bearings into place.
-| Voron Stealthburner  | 21      | For this kit this is one solid part so there's nothing to line up.
-| Voron Stealthburner  | 31      | Use the  [`CW2 Cable Bridge.STL`](https://github.com/bigtreetech/EBB/blob/master/EBB%20SB2240_2209%20CAN/STL/CW2%20Cable%20Bridge.STL) that you prepared earlier. The M3x20 screw will be too long. An M3x8 screw will work just fine.
-| Voron Stealthburner  | 34      | Because the PCB will take up a bit more space use [Cable Cover For PCB](https://github.com/bigtreetech/EBB/blob/master/EBB%20SB2240_2209%20CAN/STL/Cable_Cover_For_PCB_V1.1.STL) instead. It is possible to fit the standard one, however the heatsink will be touching the cover.
+| Voron Stealthburner  | 19      | You can use the end of the gear shaft to gently press the bearings into place.
+| Voron Stealthburner  | 20      | The manual calls for M3x6 FHCS here.  You can optionally use M3x4 FHCS, but M3x8 is too long and will interfere later.
+| Voron Stealthburner  | 21      | For this kit this is one solid part so there's nothing to line up. ![](images/single-part-Drive-Assembly.jpg)
+| Voron Stealthburner  | 22-27   |
+| Voron Stealthburner  | 31      | Use the [`CW2 Cable Bridge.STL`](https://github.com/bigtreetech/EBB/blob/master/EBB%20SB2240_2209%20CAN/STL/CW2%20Cable%20Bridge.STL) that you prepared earlier. The M3x20 screw will be too long. An M3x8 screw will work just fine.
+| Voron Stealthburner  | 34      | Because the PCB will take up a bit more space use [Cable Cover For PCB](https://github.com/bigtreetech/EBB/blob/master/EBB%20SB2240_2209%20CAN/STL/Cable_Cover_For_PCB_V1.1.STL) instead. It is possible to fit the standard one, however the heatsink will be touching the cover. FIXME: use the one with the fan instead
 | Voron Stealthburner  | 37      | The part you need may not look like the images from the manual. If you use a V6 hotend you won't have the holes at the top.
 | Voron Stealthburner  | 38      | The PCB has an ADXL345 sensor built in so the two additional heat inserts are not needed.
 | Voron Stealthburner  | 39      | If you have a V6 hotend then [this video](https://youtu.be/3eYIfBfV9SI?feature=shared) explains how to set it up.
@@ -158,7 +160,7 @@ These build instructions will reference the following manuals:
 | Voron Stealthburner  | 43      | The kit comes with two pieces of PTFE tubing. Use the one with a smaller inner diameter for this part. If you have a V6 hotend then remove the plastic retaining ring, insert the PTFE tube, and then put the ring back in place.
 | Voron Stealthburner  | 49      | You may need to remove some material that's in the way to fully insert the piece.
 | Voron Stealthburner  | 53      | Rotate the fan 90º counter clockwise to have enough wire length to reach the PCB later.
-| Voron Stealthburner  | 54 - 55 | If you have a V6 hotend skip this step.
+| Voron Stealthburner  | 54-55   | If you have a V6 hotend skip this step.
 | EBB CAN              | 2       | Continue with the CAN manual.
 | EBB CAN              | 3       | The stock fans are all 24V so add the jumper to the right pins.
 | EBB CAN              | 5       | There is no PWM fan so you can forego this step.
